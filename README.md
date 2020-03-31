@@ -1,0 +1,2 @@
+# freakGE
+Learning python
